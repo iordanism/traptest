@@ -1,5 +1,6 @@
 #!/bin/bash
 
+echo "parallel working"
 echo "hello trap"
 if date -r 30
 then
