@@ -1,7 +1,7 @@
 #!/bin/bash
 
 
-if date -r 30
+if date; 
 then
    echo "I've Successfully printed out the date! plus stash"
 else
