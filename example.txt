@@ -1,4 +1,0 @@
-This is an example  
-This is a new line \n
-and another change
-test 
