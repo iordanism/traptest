@@ -9,4 +9,4 @@ if [ $x -gt 5 ]; then
 fi
 
 # Print test
-echo "test"
+echo "test 1, 2, 3..."
