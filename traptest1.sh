@@ -7,3 +7,6 @@ x=10
 if [ $x -gt 5 ]; then
     echo "x is greater than 5"
 fi
+
+# Print test
+echo "test"
