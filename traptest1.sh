@@ -10,3 +10,6 @@ fi
 
 # Print test
 echo "test 1, 2, 3..."
+
+# Print Hello world
+echo "Hello World"
